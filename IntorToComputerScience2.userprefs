@@ -1,11 +1,13 @@
-﻿<Properties StartupConfiguration="{7C595DB4-7314-4D9D-9223-8596FB4787B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test_while/test_while.cs">
+﻿<Properties StartupConfiguration="{711D1253-C795-4B60-ADF0-F67FAEDD6A74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="blastoff/blastoff.cs">
     <Files>
-      <File FileName="test_while2/Program.cs" Line="1" Column="1" />
-      <File FileName="test_while/test_while.cs" Line="8" Column="23" />
+      <File FileName="test_while2/test_while2.cs" Line="11" Column="2" />
+      <File FileName="test_while/test_while.cs" Line="7" Column="15" />
+      <File FileName="blastoff/blastoff.cs" Line="13" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.test__while2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

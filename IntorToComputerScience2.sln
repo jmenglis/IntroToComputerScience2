@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_while", "test_while\te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_while2", "test_while2\test_while2.csproj", "{711D1253-C795-4B60-ADF0-F67FAEDD6A74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blastoff", "blastoff\blastoff.csproj", "{9C69B064-3225-4E63-9950-0E6CC77445D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{711D1253-C795-4B60-ADF0-F67FAEDD6A74}.Debug|x86.Build.0 = Debug|x86
 		{711D1253-C795-4B60-ADF0-F67FAEDD6A74}.Release|x86.ActiveCfg = Release|x86
 		{711D1253-C795-4B60-ADF0-F67FAEDD6A74}.Release|x86.Build.0 = Release|x86
+		{9C69B064-3225-4E63-9950-0E6CC77445D3}.Debug|x86.ActiveCfg = Debug|x86
+		{9C69B064-3225-4E63-9950-0E6CC77445D3}.Debug|x86.Build.0 = Debug|x86
+		{9C69B064-3225-4E63-9950-0E6CC77445D3}.Release|x86.ActiveCfg = Release|x86
+		{9C69B064-3225-4E63-9950-0E6CC77445D3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
