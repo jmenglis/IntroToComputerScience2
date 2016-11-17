@@ -1,9 +1,15 @@
-﻿<Properties StartupConfiguration="{2AE0366D-B25E-4998-8F27-1B5E2602C805}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{7C595DB4-7314-4D9D-9223-8596FB4787B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test_while/test_while.cs">
+    <Files>
+      <File FileName="test_while2/Program.cs" Line="1" Column="1" />
+      <File FileName="test_while/test_while.cs" Line="8" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.cool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.test__while PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -3,3 +3,8 @@
 /Users/jenglish/code/My_Projects/CSharp/IntorToComputerScience2/cool/bin/Debug/cool.exe
 /Users/jenglish/code/My_Projects/CSharp/IntorToComputerScience2/cool/obj/x86/Debug/cool.exe
 /Users/jenglish/code/My_Projects/CSharp/IntorToComputerScience2/cool/obj/x86/Debug/cool.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/cool/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/cool/bin/Debug/cool.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/cool/bin/Debug/cool.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/cool/obj/x86/Debug/cool.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/cool/obj/x86/Debug/cool.exe.mdb
