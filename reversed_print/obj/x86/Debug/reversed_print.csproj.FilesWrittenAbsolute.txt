@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/bin/Debug/reversed_print.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/bin/Debug/reversed_print.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/obj/x86/Debug/reversed_print.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/obj/x86/Debug/reversed_print.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/bin/Debug/ui.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/reversed_print/bin/Debug/ui.dll.mdb

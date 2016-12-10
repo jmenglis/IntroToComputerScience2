@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/bin/Debug/vowels.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/bin/Debug/vowels.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/obj/x86/Debug/vowels.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/obj/x86/Debug/vowels.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/bin/Debug/ui.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/vowels/bin/Debug/ui.dll.mdb

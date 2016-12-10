@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum_to_n_long_quick", "sum_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "char_loop1", "char_loop1\char_loop1.csproj", "{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reversed_print", "reversed_print\reversed_print.csproj", "{73AB883D-C33E-4D9D-ADE9-822B1C4E2A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowels", "vowels\vowels.csproj", "{7DAC3292-6594-4E14-AEDD-20CE9B455E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowels2", "vowels2\vowels2.csproj", "{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,5 +67,17 @@ Global
 		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Debug|x86.Build.0 = Debug|x86
 		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Release|x86.ActiveCfg = Release|x86
 		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Release|x86.Build.0 = Release|x86
+		{73AB883D-C33E-4D9D-ADE9-822B1C4E2A18}.Debug|x86.ActiveCfg = Debug|x86
+		{73AB883D-C33E-4D9D-ADE9-822B1C4E2A18}.Debug|x86.Build.0 = Debug|x86
+		{73AB883D-C33E-4D9D-ADE9-822B1C4E2A18}.Release|x86.ActiveCfg = Release|x86
+		{73AB883D-C33E-4D9D-ADE9-822B1C4E2A18}.Release|x86.Build.0 = Release|x86
+		{7DAC3292-6594-4E14-AEDD-20CE9B455E45}.Debug|x86.ActiveCfg = Debug|x86
+		{7DAC3292-6594-4E14-AEDD-20CE9B455E45}.Debug|x86.Build.0 = Debug|x86
+		{7DAC3292-6594-4E14-AEDD-20CE9B455E45}.Release|x86.ActiveCfg = Release|x86
+		{7DAC3292-6594-4E14-AEDD-20CE9B455E45}.Release|x86.Build.0 = Release|x86
+		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Debug|x86.ActiveCfg = Debug|x86
+		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Debug|x86.Build.0 = Debug|x86
+		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Release|x86.ActiveCfg = Release|x86
+		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

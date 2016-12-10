@@ -1,7 +1,9 @@
-﻿<Properties StartupConfiguration="{230B2DBF-F695-498F-A336-D38E3A0C2B12}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="char_loop1/char_loop1.cs">
+﻿<Properties StartupConfiguration="{7DAC3292-6594-4E14-AEDD-20CE9B455E45}|Default">
+  <MonoDevelop.Ide.ItemProperties.vowels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="vowels2/Program.cs">
     <Files>
-      <File FileName="char_loop1/char_loop1.cs" Line="2" Column="1" />
+      <File FileName="vowels/Program.cs" Line="18" Column="4" />
+      <File FileName="vowels2/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,6 +12,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.char__loop1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.sum__to__n__long__quick PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.cool PreferredExecutionTarget="MonoDevelop.Default" />
@@ -17,4 +20,5 @@
   <MonoDevelop.Ide.ItemProperties.sum__to__n__test__long PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.test__while PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.reversed__print PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
