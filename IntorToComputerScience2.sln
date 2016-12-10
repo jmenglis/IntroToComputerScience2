@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowels", "vowels\vowels.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowels2", "vowels2\vowels2.csproj", "{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check_digits1", "check_digits1\check_digits1.csproj", "{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -79,5 +81,9 @@ Global
 		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Debug|x86.Build.0 = Debug|x86
 		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Release|x86.ActiveCfg = Release|x86
 		{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}.Release|x86.Build.0 = Release|x86
+		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Debug|x86.ActiveCfg = Debug|x86
+		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Debug|x86.Build.0 = Debug|x86
+		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Release|x86.ActiveCfg = Release|x86
+		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

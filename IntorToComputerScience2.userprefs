@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{7DAC3292-6594-4E14-AEDD-20CE9B455E45}|Default">
+﻿<Properties StartupConfiguration="{84AB4ECF-9FF3-4032-B9D1-D5D2B2C6237C}|Default">
   <MonoDevelop.Ide.ItemProperties.vowels PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="vowels2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="check_digits1/Program.cs">
     <Files>
-      <File FileName="vowels/Program.cs" Line="18" Column="4" />
-      <File FileName="vowels2/Program.cs" Line="1" Column="1" />
+      <File FileName="check_digits1/Program.cs" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.vowels2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.sumton PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.test__while2 PreferredExecutionTarget="MonoDevelop.Default" />
