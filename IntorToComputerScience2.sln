@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum_to_n_test_long", "sum_t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum_to_n_long_quick", "sum_to_n_long_quick\sum_to_n_long_quick.csproj", "{230B2DBF-F695-498F-A336-D38E3A0C2B12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "char_loop1", "char_loop1\char_loop1.csproj", "{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,5 +57,9 @@ Global
 		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Debug|x86.Build.0 = Debug|x86
 		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Release|x86.ActiveCfg = Release|x86
 		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Release|x86.Build.0 = Release|x86
+		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Debug|x86.ActiveCfg = Debug|x86
+		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Debug|x86.Build.0 = Debug|x86
+		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Release|x86.ActiveCfg = Release|x86
+		{0583A62B-28A7-4D0C-97CF-A8F43F0C5973}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

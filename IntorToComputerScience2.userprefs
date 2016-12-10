@@ -1,20 +1,8 @@
 ﻿<Properties StartupConfiguration="{230B2DBF-F695-498F-A336-D38E3A0C2B12}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="sum_to_n_long_quick/sum_to_n_test_long.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="char_loop1/char_loop1.cs">
     <Files>
-      <File FileName="sum_to_n_test_long/sum_to_n_test_long.cs" Line="20" Column="1" />
-      <File FileName="sum_to_n_long_quick/sum_to_n_test_long.cs" Line="11" Column="71" />
+      <File FileName="char_loop1/char_loop1.cs" Line="2" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="IntorToComputerScience2" expanded="True">
-            <Node name="sum_to_n_long_quick" expanded="True">
-              <Node name="References" expanded="True" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.sumton PreferredExecutionTarget="MonoDevelop.Default" />
