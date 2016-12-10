@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{B7CAB86F-4558-469D-B3EE-6C382B586AF9}|Default">
+﻿<Properties StartupConfiguration="{CC56E11C-AA32-4572-870F-7B47518E3392}|Default">
   <MonoDevelop.Ide.ItemProperties.vowels PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="loop_steps/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="double_char_test/Program.cs">
     <Files>
       <File FileName="check_digits1/Program.cs" Line="21" Column="2" />
       <File FileName="check_digits2/Program.cs" Line="20" Column="2" />
-      <File FileName="loop_steps/Program.cs" Line="3" Column="16" />
+      <File FileName="loop_steps/Program.cs" Line="15" Column="2" />
+      <File FileName="double_char_test/Program.cs" Line="10" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.vowels2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -25,4 +26,5 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.test__while PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.reversed__print PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.loop__steps PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

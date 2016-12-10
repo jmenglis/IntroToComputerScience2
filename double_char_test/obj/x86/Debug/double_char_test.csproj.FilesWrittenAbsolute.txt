@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/bin/Debug/double_char_test.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/bin/Debug/double_char_test.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/obj/x86/Debug/double_char_test.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/obj/x86/Debug/double_char_test.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/bin/Debug/ui.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/double_char_test/bin/Debug/ui.dll.mdb
