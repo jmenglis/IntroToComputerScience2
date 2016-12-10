@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowels2", "vowels2\vowels2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check_digits1", "check_digits1\check_digits1.csproj", "{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check_digits2", "check_digits2\check_digits2.csproj", "{B7CAB86F-4558-469D-B3EE-6C382B586AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loop_steps", "loop_steps\loop_steps.csproj", "{CC56E11C-AA32-4572-870F-7B47518E3392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -85,5 +89,13 @@ Global
 		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Debug|x86.Build.0 = Debug|x86
 		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Release|x86.ActiveCfg = Release|x86
 		{9A86EED4-D761-4C5F-90EC-10816B9BB6B3}.Release|x86.Build.0 = Release|x86
+		{B7CAB86F-4558-469D-B3EE-6C382B586AF9}.Debug|x86.ActiveCfg = Debug|x86
+		{B7CAB86F-4558-469D-B3EE-6C382B586AF9}.Debug|x86.Build.0 = Debug|x86
+		{B7CAB86F-4558-469D-B3EE-6C382B586AF9}.Release|x86.ActiveCfg = Release|x86
+		{B7CAB86F-4558-469D-B3EE-6C382B586AF9}.Release|x86.Build.0 = Release|x86
+		{CC56E11C-AA32-4572-870F-7B47518E3392}.Debug|x86.ActiveCfg = Debug|x86
+		{CC56E11C-AA32-4572-870F-7B47518E3392}.Debug|x86.Build.0 = Debug|x86
+		{CC56E11C-AA32-4572-870F-7B47518E3392}.Release|x86.ActiveCfg = Release|x86
+		{CC56E11C-AA32-4572-870F-7B47518E3392}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/loop_steps/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/loop_steps/bin/Debug/loop_steps.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/loop_steps/bin/Debug/loop_steps.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/loop_steps/obj/x86/Debug/loop_steps.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience2/loop_steps/obj/x86/Debug/loop_steps.exe.mdb
