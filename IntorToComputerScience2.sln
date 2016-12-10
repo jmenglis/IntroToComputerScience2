@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumton", "sumton\sumton.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ui", "ui\ui.csproj", "{139F83E3-ABB3-4A70-B0DC-5680EFE124FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum_to_n_test_long", "sum_to_n_test_long\sum_to_n_test_long.csproj", "{81B4DB79-47D9-48CF-AC19-9845400122F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum_to_n_long_quick", "sum_to_n_long_quick\sum_to_n_long_quick.csproj", "{230B2DBF-F695-498F-A336-D38E3A0C2B12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,5 +47,13 @@ Global
 		{139F83E3-ABB3-4A70-B0DC-5680EFE124FF}.Debug|x86.Build.0 = Debug|x86
 		{139F83E3-ABB3-4A70-B0DC-5680EFE124FF}.Release|x86.ActiveCfg = Release|x86
 		{139F83E3-ABB3-4A70-B0DC-5680EFE124FF}.Release|x86.Build.0 = Release|x86
+		{81B4DB79-47D9-48CF-AC19-9845400122F1}.Debug|x86.ActiveCfg = Debug|x86
+		{81B4DB79-47D9-48CF-AC19-9845400122F1}.Debug|x86.Build.0 = Debug|x86
+		{81B4DB79-47D9-48CF-AC19-9845400122F1}.Release|x86.ActiveCfg = Release|x86
+		{81B4DB79-47D9-48CF-AC19-9845400122F1}.Release|x86.Build.0 = Release|x86
+		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Debug|x86.ActiveCfg = Debug|x86
+		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Debug|x86.Build.0 = Debug|x86
+		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Release|x86.ActiveCfg = Release|x86
+		{230B2DBF-F695-498F-A336-D38E3A0C2B12}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

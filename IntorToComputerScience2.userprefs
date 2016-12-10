@@ -1,23 +1,16 @@
-﻿<Properties StartupConfiguration="{A6EB87D2-15E8-472D-A35F-14C9B5080447}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ui/uif.cs">
+﻿<Properties StartupConfiguration="{230B2DBF-F695-498F-A336-D38E3A0C2B12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sum_to_n_long_quick/sum_to_n_test_long.cs">
     <Files>
-      <File FileName="test_while2/test_while2.cs" Line="11" Column="2" />
-      <File FileName="test_while/test_while.cs" Line="7" Column="15" />
-      <File FileName="blastoff/blastoff.cs" Line="12" Column="2" />
-      <File FileName="sumton/sumton.cs" Line="16" Column="82" />
-      <File FileName="ui/uif.cs" Line="25" Column="10" />
-      <File FileName="ui/:Users:jenglish:code:My_Projects:CSharp:IntroToComputerScience2:ui:EmptyClass.cs" Line="80" Column="10" />
-      <File FileName="ui/EmptyClass.cs" Line="144" Column="2" />
+      <File FileName="sum_to_n_test_long/sum_to_n_test_long.cs" Line="20" Column="1" />
+      <File FileName="sum_to_n_long_quick/sum_to_n_test_long.cs" Line="11" Column="71" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IntorToComputerScience2" expanded="True">
-            <Node name="sumton" expanded="True">
-              <Node name="References" expanded="True" />
+            <Node name="sum_to_n_long_quick" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
             </Node>
-            <Node name="test_while2" expanded="True" />
-            <Node name="ui" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -30,7 +23,10 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sum__to__n__long__quick PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.cool PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.blastoff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sum__to__n__test__long PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.test__while PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
